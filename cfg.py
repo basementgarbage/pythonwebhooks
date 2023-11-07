@@ -1,0 +1,3 @@
+wh = ""
+username = ""
+pfp = ""
