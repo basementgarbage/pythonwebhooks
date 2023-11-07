@@ -1,5 +1,12 @@
 # Python Webhooks 
 <img src='https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png' width='90'> <img src='https://www.svgrepo.com/show/452091/python.svg' width='90'> 
+  <a href="#">
+    <img src="https://img.shields.io/badge/Version-1.0.0-blue" alt="Version" height=24>
+    <img src="https://img.shields.io/badge/Made%20By-wb-green" alt="it is!" height=24>
+    <img src="https://img.shields.io/github/issues-raw/website37/pythonwebhooks" alt="issues (hopefully none)" height=24 title="hopefully none ;)">
+  </a>
+</h3>
+<br><br>
 
 a simple way to send messages to a discord webhook
 
