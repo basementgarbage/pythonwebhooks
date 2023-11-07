@@ -3,7 +3,22 @@
 
 a simple way to send messages to a discord webhook
 
+# Tested On
 
+Things tested on
+
+```
+Windows:
+  Python 3.11
+```
+
+```
+Linux:
+  Not tested
+```
+if you have tested this and it has worked on your system with diffrent versions and OS make a pull request editing this section
+
+for any issues please create a new issue in the tab and ill try to fix it
 
 # Installation
 
@@ -30,4 +45,11 @@ and change the pfp variable to a image url such as ```https://upload.wikimedia.o
 
 shocking, i know
 
+# Running
+
+you just run the python file lol
+
+# Your Done!
+
+now simply type in anything you would like the bot to send this follows the same discord md format
 anyway this was just a little something i whipped up
