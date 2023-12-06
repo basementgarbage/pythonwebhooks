@@ -41,6 +41,9 @@ alternatively use
 ```pip install discordwebhooks```
 
 # Config
+++ NOTE ++ 
+the cfg is the same for all python files, if you wish to use another webhook for a diffrent file download it again and configure as such
+
 the **cfg.py** file should look a little something like this
 
 ```
