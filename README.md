@@ -8,7 +8,12 @@
 </h3>
 <br><br>
 
-a simple way to send messages to a discord webhook
+a simple way to send messages to a discord webhook and more!
+
+Features. 
+Messaging
+Nitro Gen
+Spammer
 
 # Tested On
 
